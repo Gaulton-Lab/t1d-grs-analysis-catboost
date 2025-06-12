@@ -1,0 +1,37 @@
+# Data files (kept private)
+test_data/
+*.vcf
+*.vcf.alleles
+*.ubj
+*percentile*.txt
+*columns.txt
+T1GRS_allele_order.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Output
+results/
+output/
+test_output/
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
