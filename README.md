@@ -1,4 +1,5 @@
 # T1D Genetic Risk Score (T1GRS) Analysis - CatBoost
+<img src="https://github.com/Gaulton-Lab/t1grs/blob/7918e80cd40fbf065b9958338e1c4d699f96510a/t1grs.jpeg" alt="Description" width="500">
 
 A Docker-based pipeline for calculating Type 1 Diabetes genetic risk scores using CatBoost machine learning models. This tool processes VCF files and generates risk probabilities based on genetic variants.
 
